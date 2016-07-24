@@ -1,3 +1,5 @@
+/* C program to show the solution of Tower of Hanoi problem using recursive method.*/
+
 #include <stdio.h>
 
 void towers(int,char,char,char);
